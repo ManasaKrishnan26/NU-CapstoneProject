@@ -1,4 +1,4 @@
-# DS5500---Forest-Fire-Prediction
+# DS5500 Capston: Forest-Fire-Prediction
 
 ## Motivation
 
